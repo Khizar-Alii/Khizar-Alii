@@ -7,7 +7,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khizar-alii" alt="khizar-alii" /></a> </p>
 
-- 💬 Ask me about **Languages: JavaScript, TypeScript, HTML, CSS Frameworks & Libraries: React, React Native, Next.js, Node.js Tools & Platforms: Git, Firebase, Expo, VS Code Databases: Firebase Firestore, MongoDB Others: REST APIs, Styled Components, Redux**
+- 💬 Ask me about
+  Languages: JavaScript, TypeScript, HTML, CSS
+  Frameworks & Libraries: React, React Native, Next.js, Node.js
+  Tools & Platforms: Git, Firebase, Expo, VS Code
+  Databases: Firebase Firestore, MongoDB
+  Others: REST APIs, Styled Components, Redux
 
 - 📫 How to reach me **programmingwithkhizi@gmail.com**
 
