@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khizar ALi</h1>
 <h3 align="center">Crafting Exceptional Web and Mobile Experiences with React & React Native Mastery.</h3>
 <img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171867_X85WpWCcMzNsoMWtMxiZQspKzaOwCyuK.jpg" />
-[![trophy](https://github-profile-trophy.vercel.app/?Khizar-Alii=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khizar-alii&label=Profile%20views&color=0e75b6&style=flat" alt="khizar-alii" /> </p>
